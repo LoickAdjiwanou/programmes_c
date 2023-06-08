@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627407264 source:d:\dossiers\projets\codeblocks\sum_vals_tbl\main.c
+	<stdio.h>
+	<stdlib.h>
+

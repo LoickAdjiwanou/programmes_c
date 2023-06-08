@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1627583232 source:d:\dossiers\projets\codeblocks\copie_tab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Copie.h"
+
+1627565140 d:\dossiers\projets\codeblocks\copie_tab\copie.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1627400806 source:d:\dossiers\projets\codeblocks\equa_1er_d_pointeurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Equa.h"
+
+1627396125 d:\dossiers\projets\codeblocks\equa_1er_d_pointeurs\equa.h
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627592917 source:d:\dossiers\projets\codeblocks\classement_tab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Classement.h"
+
+1627586036 d:\dossiers\projets\codeblocks\classement_tab\classement.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638214199 source:f:\fichiers\c\jeu_devinette\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

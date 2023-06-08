@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627584344 source:d:\dossiers\projets\codeblocks\maxi_tab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Max.h"
+
+1627583438 d:\dossiers\projets\codeblocks\maxi_tab\max.h
+

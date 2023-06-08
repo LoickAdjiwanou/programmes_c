@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1645530786 source:f:\dossier\projets\c\lemotlepluslong\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"header.h"
+	<string.h>
+
+1645522434 f:\dossier\projets\c\lemotlepluslong\header.h
+

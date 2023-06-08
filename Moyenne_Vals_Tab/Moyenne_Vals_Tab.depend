@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1627597978 source:d:\dossiers\projets\codeblocks\moyenne_vals_tab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Moyenne.h"
+
+1627563800 d:\dossiers\projets\codeblocks\moyenne_vals_tab\moyenne.h
+
